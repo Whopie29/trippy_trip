@@ -27,7 +27,8 @@
 
 ## 📸 Preview
 
-![App Screenshot](https://placehold.co/800x400?text=App+Preview+Coming+Soon)
+![App Screenshot](assets/Screenshot%202025-05-13%20204448.png)
+
 
 ---
 
