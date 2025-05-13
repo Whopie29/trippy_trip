@@ -72,7 +72,7 @@ Found a bug? Want a new feature? Open an issue or submit a PR! Contributions are
 
 ## 📄 License
 
-MIT License © 2025 \[Your Name]
+MIT License © 2025 \[Whopie29]
 
 ---
 
