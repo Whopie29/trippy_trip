@@ -63,7 +63,7 @@ TRAVEL_API_KEY=your_api_key
 > *"Plan a 5-day trip to Paris focused on art museums, bakeries, and historic sites."*
 
 ---
-<small>[Visit the Project](http://localhost:8501/)</small>
+<small>[Visit the Project](http://192.168.1.3:8501)</small>
 ---
 
 ## 📬 Feedback & Contributions
